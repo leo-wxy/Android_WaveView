@@ -12,5 +12,7 @@
         <!--所画波浪的移动频率-->
         <attr name="wave_hz" format="integer" />
     </declare-styleable>
-
+    <declare-styleable name="Themes">
+        <attr name="waveViewStyle" format="reference" />
+    </declare-styleable>
 </resources>
